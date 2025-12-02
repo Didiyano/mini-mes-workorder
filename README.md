@@ -62,20 +62,21 @@ Filters & Summary:
 
 ---
 
-## 📂 Project Structure
+````md
+## 📁 Project Structure
 
-/mes_mini
-│── index.php # Work Order listing & filters
-│── create_wo.php # Create work order
-│── start_wo.php # Start WO
-│── complete_wo.php # Complete WO + reject reason
-│── report.php # Production report dashboard
-│── login.php # Operator login
-│── logout.php # Logout
-│── auth.php # Session guard
-│── db.php # MySQL connection
-└── screenshots/ # UI screenshots (optional)
-
+```txt
+mes_mini/
+├── index.php
+├── create_wo.php
+├── start_wo.php
+├── complete_wo.php
+├── report.php
+├── login.php
+├── logout.php
+├── auth.php
+├── db.php
+└── screenshots/
 
 ---
 
