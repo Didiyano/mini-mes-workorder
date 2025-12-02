@@ -62,7 +62,6 @@ Filters & Summary:
 
 ---
 
-````md
 ## 📁 Project Structure
 
 ```txt
@@ -77,8 +76,6 @@ mes_mini/
 ├── auth.php
 ├── db.php
 └── screenshots/
-```
-```
 
 ---
 
