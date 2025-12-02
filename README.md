@@ -127,18 +127,25 @@ Password: password2
 ## 🚀 How to Run Locally
 
 1. Install **XAMPP**
+
 2. Clone repo into:  
    `C:\xampp\htdocs\mes_mini`
+
 3. Create database:
 
-```sql
-CREATE DATABASE mes_mini CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+    ```sql
+    CREATE DATABASE mes_mini CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+    ```
 
-4. Import the tables using SQL provided in this repository (or manually create using .sql script).
+4. Import the tables using the SQL provided in this repository.
+
 5. Start Apache + MySQL from XAMPP.
-6. Access in browser: http://localhost/mes_mini/login.php
 
-<img width="1898" height="892" alt="image" src="https://github.com/user-attachments/assets/e1c7f43d-e004-42cc-aba8-478992512000" />
+6. Access the system in your browser:  
+   http://localhost/mes_mini/login.php
+
+   ![Report Screenshot]([https://link-ke-screenshot.png](https://github.com/user-attachments/assets/e1c7f43d-e004-42cc-aba8-478992512000))
+
 
 <img width="1892" height="885" alt="image" src="https://github.com/user-attachments/assets/3c6d391e-c31f-42a5-a645-ba3f00b493ac" />
 
