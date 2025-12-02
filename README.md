@@ -77,7 +77,7 @@ mes_mini/
 ├── db.php
 └── screenshots/
 
----
+
 
 ## 🗄 Database Schema (Summary)
 
