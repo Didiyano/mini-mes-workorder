@@ -62,22 +62,6 @@ Filters & Summary:
 
 ---
 
-## 📁 Project Structure
-
-```txt
-mes_mini/
-├── index.php
-├── create_wo.php
-├── start_wo.php
-├── complete_wo.php
-├── report.php
-├── login.php
-├── logout.php
-├── auth.php
-├── db.php
-└── screenshots/
-
-
 
 ## 🗄 Database Schema (Summary)
 
